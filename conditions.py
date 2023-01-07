@@ -24,3 +24,17 @@ print(test8)
 test9 = "Friend" < "friend"
 print(test9)
 
+basic_test = "happy birthday" == "happy Birthday"
+print(basic_test)
+
+basic_test2 = "happy birthday" != "happy Birthday"
+print(basic_test2)
+
+exp_test = "2" == 2
+print(exp_test)
+
+exp_test_2 = "2" == str(2)
+print(exp_test_2)
+
+test_3 = -1 == True
+print(test_3)
